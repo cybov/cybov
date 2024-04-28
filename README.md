@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cybov
-- 🌱 I’m currently learning Data Science on coursera
+- 🌱 I’m currently learning Data Science on DataCamp
 - 💞️ I’m looking to collaborate on Python and Data Science projects.
 - 📫 Twitter @RealBrainiac
 
